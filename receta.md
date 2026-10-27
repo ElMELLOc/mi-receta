@@ -46,3 +46,9 @@ Primero, es un plato que te abraza el alma. Para mí, el aroma de la salsa de to
 Segundo, la combinación de texturas es perfecta: tienes la pasta suave e impregnada de salsa, y luego muerdes una albóndiga que bien hecha está doradita por fuera, pero jugosa y llena de sabor por dentro. Además, la carne absorbe el sabor de la salsa y la salsa toma el jugo de la carne; se complementan de una forma increíble.
 
 Y por último, seamos honestos: es un plato súper rústico, generoso y divertido de comer. Le pones una buena montaña de queso parmesano por encima que se derrite con el calor, y cada bocado es puro confort. No necesita ser una comida sofisticada ni pretenciosa para ser sencillamente perfecta."
+
+# las albondigas:
+
+* as albóndigas son una popular preparación culinaria de diferentes gastronomías del mundo, que básicamente consiste en bolas de pequeño tamaño (de entre 3 y 10 cm) de carne picada mezcladas con diferentes condimentos según el lugar, y cocinadas fritas, cocidas o guisadas según la receta.[1] La carne puede ser de pollo, de cerdo, de ternera, etc. y algunos condimentos habituales son: perejil, pan viejo, cebolla, comino, huevo, entre otros. Aunque son menos comunes, se pueden preparar albóndigas de pescado,[2] de marisco o vegetarianas.
+
+
