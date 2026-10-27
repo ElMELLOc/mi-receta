@@ -52,3 +52,6 @@ Y por último, seamos honestos: es un plato súper rústico, generoso y divertid
 * as albóndigas son una popular preparación culinaria de diferentes gastronomías del mundo, que básicamente consiste en bolas de pequeño tamaño (de entre 3 y 10 cm) de carne picada mezcladas con diferentes condimentos según el lugar, y cocinadas fritas, cocidas o guisadas según la receta.[1] La carne puede ser de pollo, de cerdo, de ternera, etc. y algunos condimentos habituales son: perejil, pan viejo, cebolla, comino, huevo, entre otros. Aunque son menos comunes, se pueden preparar albóndigas de pescado,[2] de marisco o vegetarianas.
 
 
+# consejo:
+
+* Si no tienes queso parmesano, puedes usar queso rallado o queso cheddar.
