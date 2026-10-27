@@ -14,3 +14,7 @@ Nombre del plato: fideos con albondiga
 * 9 agua
 * 10 salsa de tomate
 * 11 queso parmesano
+
+
+tiempo de preparacion: 
+20 minutos
