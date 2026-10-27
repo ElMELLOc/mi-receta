@@ -18,3 +18,14 @@ Nombre del plato: fideos con albondiga
 
 tiempo de preparacion: 
 20 minutos
+
+
+pasos de preparacion:
+1. Cocinar los fideos en agua hirviendo
+2. Moler la cebolla y el ajo
+3. Freir la cebolla y el ajo en aceite
+4. Agregar las albondigas y freirlas
+5. Agregar el tomate y la salsa de tomate y dejarlo cocinar
+6. Agregar los fideos y dejarlo cocinar
+7. Agregar sal y pimienta al gusto
+8. Agregar queso parmesano al gusto
