@@ -31,3 +31,8 @@ pasos de preparacion:
 8. Agregar queso parmesano al gusto
 
 salen 7 platos
+
+# Notas:
+* Puedes agregar mas salsa de tomate si te gusta mas picante
+* Puedes agregar mas queso parmesano si te gusta mas salado
+* Puedes agregar mas fideos si te gusta mas cantidad
