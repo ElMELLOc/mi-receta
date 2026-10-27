@@ -36,3 +36,13 @@ salen 7 platos
 * Puedes agregar mas salsa de tomate si te gusta mas picante
 * Puedes agregar mas queso parmesano si te gusta mas salado
 * Puedes agregar mas fideos si te gusta mas cantidad
+
+# por que me gusta los fideos con albondiga
+
+* "Mira, la gente cree que son solo fideos y carne, pero no entienden la magia que hay detrás.
+
+Primero, es un plato que te abraza el alma. Para mí, el aroma de la salsa de tomate hirviendo despacio con ajo, orégano y albahaca llena toda la casa y te transporte de inmediato a un domingo en familia, a hogar y a tranquilidad.
+
+Segundo, la combinación de texturas es perfecta: tienes la pasta suave e impregnada de salsa, y luego muerdes una albóndiga que bien hecha está doradita por fuera, pero jugosa y llena de sabor por dentro. Además, la carne absorbe el sabor de la salsa y la salsa toma el jugo de la carne; se complementan de una forma increíble.
+
+Y por último, seamos honestos: es un plato súper rústico, generoso y divertido de comer. Le pones una buena montaña de queso parmesano por encima que se derrite con el calor, y cada bocado es puro confort. No necesita ser una comida sofisticada ni pretenciosa para ser sencillamente perfecta."
