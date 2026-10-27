@@ -29,3 +29,5 @@ pasos de preparacion:
 6. Agregar los fideos y dejarlo cocinar
 7. Agregar sal y pimienta al gusto
 8. Agregar queso parmesano al gusto
+
+salen 7 platos
