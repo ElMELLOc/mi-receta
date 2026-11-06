@@ -1,0 +1,5 @@
+# historia
+
+* La albóndiga tiene sus raíces en la Edad Media, con atribuciones a Ziryab, un gastrónomo kurdo del siglo IX en el Emirato de Córdoba, aunque la palabra proviene del árabe al-bunduqa ("la bola").  Los árabes enseñaron a los europeos a preparar este guiso de bolas de carne picada con especias, un plato que rápidamente se convirtió en un clásico de la cocina andalusí y sefardí. 
+
+* Con el tiempo, la albóndiga se adaptó a las cocinas de todo el mundo, dando lugar a variantes locales como la sopa de albóndigas con fideo mexicana, donde se incorporan arroz, hierbas frescas y fideos tostados para crear un caldo reconfortante.  En América Latina, se sirve generalmente con salsa, papas, arroz o fideos, consolidándose como un plato casero rendidor y económico que perdura generación tras generación.
